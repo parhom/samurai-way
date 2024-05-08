@@ -19,7 +19,7 @@
 	grid-area: n;
 }
 
-.content {
+.App-content {
 	background-color: cornflowerblue;
 	grid-area: c;
 }
